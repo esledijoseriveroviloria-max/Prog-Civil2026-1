@@ -1,0 +1,70 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "toc_visible": true,
+      "history_visible": true,
+      "authorship_tag": "ABX9TyOJ82NVY2M9koE55IRSN4Vj",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/esledijoseriveroviloria-max/Prog-Civil2026-1/blob/main/notebock_semana_1\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 18,
+      "metadata": {
+        "id": "Yunun5OBEAoL",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 106
+        },
+        "collapsed": true,
+        "outputId": "adfbf8b9-edd9-498a-fa53-b84be52ccd5b"
+      },
+      "outputs": [
+        {
+          "output_type": "error",
+          "ename": "SyntaxError",
+          "evalue": "invalid syntax (3281431807.py, line 2)",
+          "traceback": [
+            "\u001b[0;36m  File \u001b[0;32m\"/tmp/ipykernel_400/3281431807.py\"\u001b[0;36m, line \u001b[0;32m2\u001b[0m\n\u001b[0;31m    2 ancho = 1\u001b[0m\n\u001b[0m      ^\u001b[0m\n\u001b[0;31mSyntaxError\u001b[0m\u001b[0;31m:\u001b[0m invalid syntax\n"
+          ]
+        }
+      ],
+      "source": [
+        "1 # Entradas : ancho y alto en metros\n",
+        "2 ancho = input( ingrese el ancho de la ventana en metros)\n",
+        "3 alto = impot()\n",
+        "4 # proceso\n",
+        "5 lm = 2 * ( ancho * alto )* 3.25\n",
+        "6 av = ( ancho * alto ) * 2\n",
+        "7 print(lm)\n",
+        "8 print(lm)\n",
+        "9 # salida\n",
+        "10\n",
+        "11 # salida : sale la amplitud de la madera (lm) en pies y área del vidrio en metros cuadrados\n",
+        "12 print ()\n",
+        "13 print ()"
+      ]
+    }
+  ]
+}
