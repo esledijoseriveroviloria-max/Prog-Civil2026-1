@@ -136,15 +136,15 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "tYVNSPtKUrfl",
-        "outputId": "c107932c-3f7b-413d-8767-cf5c27fccd3f"
+        "outputId": "ce66acfc-b35a-4c9e-bd2a-befc96548a48"
       },
-      "execution_count": 7,
+      "execution_count": 8,
       "outputs": [
         {
           "output_type": "stream",
           "name": "stdout",
           "text": [
-            "ingrese la altura de la columna en metros.3 \n",
+            "ingrese la altura de la columna en metros.3\n",
             "ingrese el diametro de la columna en metros.0.4\n",
             "volumen = 0.377 m3.\n",
             "sacos necesarios = 3.58\n"
